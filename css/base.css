@@ -228,6 +228,9 @@ figure {
   background-color: #cccccc;
   border: 1px solid black;
   text-align: center; }
+  figure img {
+    max-width: 80%;
+  }
   figure figcaption {
     text-align: center;
     font-size: 0.8em;
